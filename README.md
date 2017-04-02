@@ -7,5 +7,5 @@ Homework V - 61/65 </br>
 Homework VI - 55/61 </br>
 Quiz I -10/10 </br>
 Quiz IV - 4/10 </br>
-Midterm - 86/100 </br>
+Midterm I - 86/100 </br>
 
