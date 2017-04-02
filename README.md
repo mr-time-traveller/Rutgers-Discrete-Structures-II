@@ -1,6 +1,11 @@
 # Rutgers-Discrete-Structures-II
-Homework I - 22/24
-Homework II - 48/50
-Homework III - 40/50
-Quiz I -10/10
-Midterm - 68/100
+Homework I - 22/24 </br>
+Homework II - 48/50</br>
+Homework III - 40/50 </br>
+Homework IV - 58/62 </br>
+Homework V - 61/65 </br>
+Homework VI - 55/61 </br>
+Quiz I -10/10 </br>
+Quiz IV - 4/10 </br>
+Midterm - 86/100 </br>
+
